@@ -2,3 +2,4 @@ Name: Shotaro Hato
 Gender: Man
 Age: 22
 Nationality: Japanese
+Hobby: skiing
