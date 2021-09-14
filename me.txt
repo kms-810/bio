@@ -1,0 +1,3 @@
+Name: Shotaro Hato
+Gender: Man
+Age: 22
